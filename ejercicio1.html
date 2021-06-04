@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="">
+</head>
+<body>
+	<h1>¿Cuál es el número menor?</h1>
+
+	<form action="">
+
+		<label for="n1">Número 1</label>
+		<input type="text" id="numero1">
+	
+		<label for="n2">Número 2</label>
+		<input type="text" id="numero2">
+	
+		<label for="n3">Número 3</label>
+		<input type="text" id="numero3">
+
+
+		<input type="button" value="Comparar" onclick="comparar(numero1.value,numero2.value,numero3.value)">
+
+
+	</form>
+
+	<form action="">
+		<br>
+		<h1>Día de la semana</h1>
+		<label for="sem">Ingresa un número del 1 al 7 basado en los días de la semana</label>
+		<input type="text" id="numsem">
+
+		<input type="button" value="Convertir" onclick="convertir(numsem.value)">
+
+	</form>
+
+	<form action=""> 
+		<br>
+		<h1>Edad</h1>
+		<label for="ed">Ingresa tu edad</label>
+		<input type="text" id="edad">
+
+		<input type="button" value="Validar" onclick="validar(edad.value)">
+
+	</form>
+
+	<script src="js/ejercicio1.js"></script>
+</body>
+</html>
