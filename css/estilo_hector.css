@@ -1,0 +1,153 @@
+body{
+	background-image: url(../images/FONDO13.JPG) ;
+	background-size: cover;
+
+    
+}
+
+
+#cabeza{
+	color:#000;
+	text-align: center;
+	border-radius: 150px;
+	width: 80%;
+	margin: 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-image: url(../images/FONDO12.JPG);
+}
+
+
+#seccion1{
+	border-radius: 10px;
+	text-align:center;
+	float:center;
+	width: 40%;
+	height: 500px;
+	margin: 0 4% 0% 0;
+	background-image: url(../images/FONDO14.jpg);
+	padding: 15px 15px 15px 15px;
+
+}
+
+#parrafo{
+	border-radius: 10px;
+	text-align:center;
+	float:center;
+	width: 50%;
+	height: 200px;
+	margin: 0 4% 0% 0;
+	background-color: #41A7D9;
+	padding: 15px 15px 15px 15px;
+
+
+}
+
+#parrafo2{
+	border-radius: 10px;
+	text-align:center;
+	float:center;
+	width: 50%;
+	height: 100px;
+	margin: 0 4% 0% 0;
+	background-color: #C29D18;
+	padding: 15px 15px 15px 15px;
+}
+
+#parrafo3{
+	border-radius: 10px;
+	text-align:center;
+	float:center;
+	width: 50%;
+	height: 90px;
+	margin: 0 4% 0% 0;
+	background-color: #5B28C5;
+	padding: 15px 15px 15px 15px;	
+}
+
+#parrafo4{
+	border-radius: 10px;
+	text-align:center;
+	float:center;
+	width: 50%;
+	height: 200px;
+	margin: 0 4% 0% 0;
+	background-color: #5B28C5;
+	padding: 15px 15px 15px 15px;
+}
+
+#parrafo5{
+	border-radius: 10px;
+	text-align:center;
+	float:center;
+	width: 50%;
+	height: 200px;
+	margin: 0 4% 0% 0;
+	background-color: #289EC5;
+	padding: 15px 15px 15px 15px;
+}
+
+#parrafo6{
+	border-radius: 10px;
+	text-align:center;
+	float:center;
+	width: 50%;
+	height: 200px;
+	margin: 0 4% 0% 0;
+	background-color: #C5288E;
+	padding: 15px 15px 15px 15px;
+}
+
+#parrafo7{
+	border-radius: 10px;
+	text-align:center;
+	float:center;
+	width: 50%;
+	height: 200px;
+	margin: 0 4% 0% 0;
+	background-color: #C58028;
+	padding: 15px 15px 15px 15px;
+}
+
+#parrafo8{
+	border-radius: 10px;
+	text-align:center;
+	float:center;
+	width: 50%;
+	height: 200px;
+	margin: 0 4% 0% 0;
+	background-color: #C52D28;
+	padding: 15px 15px 15px 15px;
+}
+
+#parrafo9{
+	border-radius: 10px;
+	text-align:center;
+	float:center;
+	width: 50%;
+	height: 200px;
+	margin: 0 4% 0% 0;
+	background-color: #B5C528;
+	padding: 15px 15px 15px 15px;
+}
+
+#parrafo10{
+	order-radius: 15px;
+	text-align:center;
+	float:left;
+	width: 35%;
+	height: 245px;
+	margin: 0 0 0 10%;
+	background-color:;
+	padding: 10px 10px 10px 10px;
+}
+
+#parrafo11{
+	border-radius: 15px;
+	text-align:center;
+	float:right;
+	width: 35%;
+	height: 245px;
+	margin: 0 10% 0 0;
+	background-color:;
+	padding: 10px 10px 10px 10px;
+}
